@@ -1,0 +1,20 @@
+* {box-sizing: border-box;}
+
+body {
+  height: 400px;
+  background-image: url("https://blogging-techies.com/wp-content/uploads/2020/06/1593252486_658_55-fondos-de-pantalla-de-otono-para-su-escritorio-y.jpg");
+background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+
+body{
+  font-family: 'comics',sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.home-wrapper {
+   background: linear-gradient(rgba( 0, 0, 0, 0.5), rgba( 0, 0,0, 0.5)), url('../images/background.jpg')no-repeat center top;
+   background-size: cover;
+   color: white;
